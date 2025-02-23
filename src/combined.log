@@ -1,0 +1,296 @@
+{"level":"info","message":"Hello distributed log files!","service":"user-service"}
+{"level":"info","message":"GET /","service":"user-service"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"GET /health"}
+{"level":"info","message":"GET /health "}
+{"level":"info","message":"POST /health [object Object]"}
+{"level":"info","message":"POST /health [object Object]"}
+{"level":"info","message":"GET /health"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"POST /order [object Object]"}
+{"level":"info","message":"POST /order [object Object]"}
+{"level":"info","message":"POST /order {}"}
+{"level":"info","message":"POST /order {}"}
+{"level":"info","message":"GET /order"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":{"code":"ECONNREFUSED"}}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":{"code":"ECONNREFUSED"}}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {}"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"postgresdb","level":"info","syscall":"getaddrinfo"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"4000"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":\"string\",\"totalPrice\":\"string\",\"shippingAddressId\":0}"}
+{"code":"42P01","file":"parse_relation.c","length":105,"level":"info","line":"1449","name":"error","position":"13","routine":"parserOpenTable","severity":"ERROR"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":100,\"shippingAddressId\":1}"}
+{"code":"42P01","file":"parse_relation.c","length":105,"level":"info","line":"1449","name":"error","position":"13","routine":"parserOpenTable","severity":"ERROR"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":100,\"shippingAddressId\":1}"}
+{"code":"42P01","file":"parse_relation.c","length":105,"level":"info","line":"1449","name":"error","position":"13","routine":"parserOpenTable","severity":"ERROR"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":100,\"shippingAddressId\":1}"}
+{"code":"42P01","file":"parse_relation.c","length":105,"level":"info","line":"1449","name":"error","position":"13","routine":"parserOpenTable","severity":"ERROR"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":100,\"shippingAddressId\":1}"}
+{"code":"42P01","file":"parse_relation.c","length":105,"level":"info","line":"1449","name":"error","position":"13","routine":"parserOpenTable","severity":"ERROR"}
+{"db":{"databaseName":"bezkoder_db","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":110,\"shippingAddressId\":1}"}
+{"code":"42P01","file":"parse_relation.c","length":105,"level":"info","line":"1449","name":"error","position":"13","routine":"parserOpenTable","severity":"ERROR"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":120,\"shippingAddressId\":1}"}
+{"code":"42703","file":"parse_relation.c","length":107,"level":"info","line":"3716","name":"error","position":"95","routine":"errorMissingColumn","severity":"ERROR"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":120,\"shippingAddressId\":1}"}
+{"code":"42703","file":"parse_relation.c","length":107,"level":"info","line":"3716","name":"error","position":"95","routine":"errorMissingColumn","severity":"ERROR"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":10,\"shippingAddressId\":1}"}
+{"code":"42703","file":"parse_relation.c","length":107,"level":"info","line":"3716","name":"error","position":"95","routine":"errorMissingColumn","severity":"ERROR"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":10,\"shippingAddressId\":1}"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":10,\"shippingAddressId\":1}"}
+{"code":"23505","constraint":"orders_pkey","detail":"Key (order_number)=(ord002) already exists.","file":"nbtinsert.c","length":198,"level":"info","line":"666","name":"error","routine":"_bt_check_unique","schema":"public","severity":"ERROR","table":"orders"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":10,\"shippingAddressId\":1}"}
+{"code":"42703","file":"parse_relation.c","length":106,"level":"info","line":"3716","name":"error","position":"95","routine":"errorMissingColumn","severity":"ERROR"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"POST /order {\"userId\":1,\"totalPrice\":10,\"shippingAddressId\":1}"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /order"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
