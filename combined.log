@@ -38,3 +38,189 @@
 {"level":"info","message":"trying to make conn 0"}
 {"level":"info","message":"GET /orders"}
 {"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"got error"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"Connected to database"}
+{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"env":"test","level":"info","loglevel":"info","message":"test","port":"5000"}
+{"level":"info","message":"trying to make conn 0"}
+{"level":"info","message":"GET /orders"}
+{"level":"info","message":"Connected to database"}

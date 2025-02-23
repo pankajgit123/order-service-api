@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "src/server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node src/server.js",
+    "local-dev": "nodemon src/server.js",
     "test": "jest",
     "test-coverage": "jest --coverage",
     "migrate:up": "node-pg-migrate up",
