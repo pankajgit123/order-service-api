@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node src/server.js",
     "lint": "eslint .",
+    "format": "prettier --write .",
     "local-dev": "nodemon src/server.js",
     "test": "jest",
     "test-coverage": "jest --coverage",
@@ -50,9 +51,9 @@
     }
   },
   "lint-staged": {
-    ".js": [
+    "*.js": [
       "eslint",
-      "prettier — write",
+      "prettier --write",
       "git add"
     ]
   }
