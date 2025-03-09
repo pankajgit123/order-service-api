@@ -3,13 +3,8 @@ const app = express();
 
 import { healthRouter, orderRouter } from './routes/index.js';
 import { logRequest } from './lib/log-request.js';
-import helmet from 'helmet';
-
 import swaggerUI from 'swagger-ui-express';
 import { swaggerSpec } from './swagger-spec.js';
-import { config } from './config/config.js';
-
-const PORT = config.port;
 
 app.use(express.json());
 
