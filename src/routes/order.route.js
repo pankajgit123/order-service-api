@@ -1,7 +1,7 @@
-import { Router } from "express";
+import { Router } from 'express';
 const router = Router();
-import client from "../util/db.js";
-import { logger } from "../util/logger.js";
+import client from '../util/db.js';
+import { logger } from '../util/logger.js';
 
 /**
  * @swagger
@@ -29,7 +29,7 @@ import { logger } from "../util/logger.js";
  *                     type: string
  *                     description: The status of the order
  */
-router.get("/orders", async (req, res, next) => {
+router.get('/orders', async (req, res, next) => {
   const orders = await client.query(`select * from orders`);
   res.status(200).json(orders.rows[0]);
 });
@@ -74,9 +74,9 @@ router.get("/orders", async (req, res, next) => {
  *                   type: string
  *                   description: The status of the created order
  */
-router.post("/order", async (req, res, next) => {
+router.post('/order', async (req, res, next) => {
   try {
-    const orderNumber = "ord3452";
+    const orderNumber = 'ord3452';
     const { userId, shippingAddressId, totalPrice } = req.body;
     console.log(userId, shippingAddressId, totalPrice);
     const orders = await client.query(
@@ -84,13 +84,14 @@ router.post("/order", async (req, res, next) => {
         VALUES ($1, $2, $3, $4)`,
       [orderNumber, userId, shippingAddressId, totalPrice]
     );
+
     res.status(201).json(orders.rows[0]);
   } catch (error) {
     logger.info(error);
-    res.status(500).json({ message: "Internal Server Error" });
+    res.status(500).json({ message: 'Internal Server Error' });
   }
 });
 
-router.delete("/order", (req, res, next) => {});
+router.delete('/order', (req, res, next) => {});
 
 export default router;

@@ -26,4 +26,19 @@
 ```
 
 ## Husky
+
 - npm install --save-dev husky
+- npx husky install (to initialize husky, this will add .husky folder to your project)
+
+## Prettier
+
+- Prettier is a code formatter used to ensure that code is consistent, clean, and easy to read
+
+  ```bash
+  npm i --save-d prettier
+  ```
+
+- Add .prettierrc, .prettierignore to exclude files
+- Go to Settings (vs code) → Text Editor → Formatting → Format on save
+
+lint-staged is a tool that allows you to run linters and formatters (like ESLint, Prettier) on files that have been staged for a Git commit
