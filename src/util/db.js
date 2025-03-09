@@ -6,7 +6,7 @@ import { logger } from "../util/logger.js";
 logger.info("test", config);
 
 const client = new Client({
-  host: "localhost", //config.db.host, // Postgres ip address[s] or domain name[s], match to docker service name
+  host: config.db.host, // Postgres ip address[s] or domain name[s], match to docker service name
   port: config.db.dockerPort, // Postgres server port[s]
   database: config.db.databaseName, // Name of database to connect to
   user: config.db.user, // Username of database user

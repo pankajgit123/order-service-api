@@ -4,7 +4,7 @@ services:
   postgresdb:
     image: postgres
     env_file: ./.env
-    hostname: db
+    hostname: postgresdb
     environment:
       - POSTGRES_USER=$POSTGRESDB_USER
       - POSTGRES_PASSWORD=$POSTGRESDB_ROOT_PASSWORD
@@ -15,19 +15,21 @@ services:
       - db:/var/lib/postgres
     networks:
       - app-networks
-  # app:
-  #   depends_on:
-  #     - postgresdb
-  #   build: .
-  #   env_file: ./.env
-  #   ports:
-  #     - $NODE_LOCAL_PORT:$NODE_DOCKER_PORT
-  #   environment:
-  #     - DB_HOST=postgresdb
-  #     - DB_USER=$POSTGRESDB_USER
-  #     - DB_PASSWORD=$POSTGRESDB_ROOT_PASSWORD
-  #     - DB_NAME=$POSTGRESDB_DATABASE
-  #     - DB_PORT=$POSTGRESDB_DOCKER_PORT
+  app:
+    depends_on:
+      - postgresdb
+    build: .
+    env_file: ./.env
+    ports:
+      - $NODE_LOCAL_PORT:$NODE_DOCKER_PORT
+    environment:
+      - DB_HOST=postgresdb
+      - DB_USER=$POSTGRESDB_USER
+      - DB_PASSWORD=$POSTGRESDB_ROOT_PASSWORD
+      - DB_NAME=$POSTGRESDB_DATABASE
+      - DB_PORT=$POSTGRESDB_DOCKER_PORT
+    networks:
+      - app-networks
 
 volumes:
   db:
