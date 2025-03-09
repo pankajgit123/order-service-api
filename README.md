@@ -42,3 +42,25 @@
 - Go to Settings (vs code) → Text Editor → Formatting → Format on save
 
 lint-staged is a tool that allows you to run linters and formatters (like ESLint, Prettier) on files that have been staged for a Git commit
+
+- Add pre-commit file touch .husky/pre-commit
+- Add these commands
+
+```
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+npx lint-staged
+```
+
+- modify package.json accordingly
+
+```
+"lint-staged": {
+    ".js": [
+      "eslint — fix",
+      "prettier — write",
+      "git add"
+    ],
+    "**/*": "prettier --write --ignore-unknown"
+  }
+```
