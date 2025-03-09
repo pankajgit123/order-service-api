@@ -4,11 +4,14 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
+    "lint": "eslint . --fix",
+    "format": "prettier --write .",
     "local-dev": "nodemon src/server.js",
     "test": "jest",
     "test-coverage": "jest --coverage",
     "migrate:up": "node-pg-migrate up",
-    "migrate-down": "node-pg-migrate down"
+    "migrate-down": "node-pg-migrate down",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
@@ -32,8 +35,26 @@
   "devDependencies": {
     "@babel/core": "^7.26.9",
     "@babel/preset-env": "^7.26.9",
+    "@eslint/js": "^9.22.0",
     "babel-jest": "^29.7.0",
+    "eslint": "^9.22.0",
+    "globals": "^16.0.0",
+    "husky": "^9.1.7",
     "jest": "^29.7.0",
+    "lint-staged": "^15.4.3",
+    "prettier": "^3.5.3",
     "supertest": "^7.0.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "prettier --write",
+      "git add"
+    ]
   }
 }
