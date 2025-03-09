@@ -4,7 +4,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
-    "lint": "eslint",
+    "lint": "eslint .",
     "local-dev": "nodemon src/server.js",
     "test": "jest",
     "test-coverage": "jest --coverage",
@@ -54,7 +54,6 @@
       "eslint",
       "prettier — write",
       "git add"
-    ],
-    "**/*": "prettier --write --ignore-unknown"
+    ]
   }
 }
