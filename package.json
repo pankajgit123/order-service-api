@@ -8,7 +8,8 @@
     "test": "jest",
     "test-coverage": "jest --coverage",
     "migrate:up": "node-pg-migrate up",
-    "migrate-down": "node-pg-migrate down"
+    "migrate-down": "node-pg-migrate down",
+    "prepare": "husky"
   },
   "keywords": [],
   "author": "",
