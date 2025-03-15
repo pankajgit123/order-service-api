@@ -1,5 +1,0 @@
-{"db":{"databaseName":"postgres","dockerPort":"5432","localPort":"5432","password":"123456","user":"postgres"},"level":"info","loglevel":"info","message":"test","port":"5000"}
-{"level":"info","message":"trying to make conn 0"}
-{"level":"info","message":"Connected to database"}
-{"level":"info","message":"GET /health"}
-{"level":"info","message":"GET /health"}
