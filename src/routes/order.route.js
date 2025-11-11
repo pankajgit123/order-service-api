@@ -30,7 +30,7 @@ import { logger } from '../util/logger.js';
  *                     description: The status of the order
  */
 router.get('/orders', async (req, res, next) => {
-  const orders = await client.query(`select * from orders`);
+  const orders = await client.query('select * from orders');
   res.status(200).json(orders.rows[0]);
 });
 

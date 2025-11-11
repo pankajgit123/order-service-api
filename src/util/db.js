@@ -1,9 +1,9 @@
-import pkg from "pg";
+import pkg from 'pg';
 const { Client } = pkg;
-import { config } from "../config/config.js";
-import { logger } from "../util/logger.js";
+import { config } from '../config/config.js';
+import { logger } from '../util/logger.js';
 
-logger.info("test", config);
+logger.info('test', config);
 
 const client = new Client({
   host: config.db.host, // Postgres ip address[s] or domain name[s], match to docker service name
@@ -15,23 +15,21 @@ const client = new Client({
 
 let count = 0;
 
-const connectToDB = async () => {
+(async function connectToDB() {
   try {
-    logger.info("trying to make conn " + count);
+    logger.info('trying to make conn ' + count);
     // retry 5 times
     if (count === 5) {
       process.exit(1);
     }
     await client.connect();
-    logger.info("Connected to database");
+    logger.info('Connected to database');
   } catch (error) {
     count++;
-    logger.info("got error");
+    logger.info('got error');
     logger.info(error);
     setTimeout(connectToDB(count), 5000); // Retry after 5 seconds
   }
-};
-
-connectToDB();
+})();
 
 export default client;
