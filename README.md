@@ -1,4 +1,4 @@
-- npm init -y
+- npm init -y 
 - touch app.js
 - touch README.md
 - npm i express nodemon helmet winston dotenv swagger-ui-express swagger-jsdoc pg node-pg-migrate
